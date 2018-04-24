@@ -1,0 +1,7 @@
+{
+	"utterance": "How are you",
+	"intent_type": "HowAreYouIntent",
+	"intent":{
+		"HowAreYouKeyword": "How are you"
+	}
+}
